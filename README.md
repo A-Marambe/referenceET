@@ -1,4 +1,4 @@
-# referenceET
+# Reference evapotranspiration (ETo)
 This code generates FAO 56 - reference evapotranspiration using meteorological data. The code is a direct conversion of extension work from the University of Florida IFSA extension "Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method)" into a python code. This paper to code conversion needed python packages like NumPy, math, and pandas.  
 
 #### Input data for code:  
