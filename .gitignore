@@ -1,4 +1,4 @@
 # Follwing files will ne ignore during git ops
 
 *.csv
-.ipynb_checkpoints/ET_FAO56-checkpoint.ipynb
+.ipynb_checkpoints
