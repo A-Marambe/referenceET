@@ -1,5 +1,5 @@
-# Follwing files will ne ignore during git ops
-
+# ignore following files and directories
+input/
+output/
 *.csv
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
