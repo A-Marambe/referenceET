@@ -14,5 +14,5 @@ Julian date
 Hypothetical reference crop - crop height 0.12 m, surface resistance 70 s/m, and albedo of 0.23
 
 Refrences: IFAS Extension 
-(https://edis.ifas.ufl.edu/pdf/AE/AE45900.pdf)[Step by step ET manual]
-(https://www.seaford.k12.ny.us/cms/lib/NY01000674/Centricity/Domain/684/Dewpoint%20Relative%20Humidity%20How%20To.pdf)[Relative humidity calculation]
+[Step by step ET manual] (https://edis.ifas.ufl.edu/pdf/AE/AE45900.pdf)
+[Relative humidity calculation] (https://www.seaford.k12.ny.us/cms/lib/NY01000674/Centricity/Domain/684/Dewpoint%20Relative%20Humidity%20How%20To.pdf)
